@@ -136,6 +136,96 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Spotmärkte/Fra
 Beispielantwort
 </details>
 
+Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20von%20GEK.md).
+<details><summary>Welche unterschiedlichen Märkte gibt es mit welchen Fristigkeiten? Und wie werden jeweils die Handelsgeschäfte gebildet?</summary>
+
+TODO
+Folie 3 6
+TODO Jeweils dazu schreiben ob Merit-Order oder Pay as bid oder ...
+TODO Wozu ist der jeweilige Markt da? 
+TODO Handel einsehbar oder verdeckt? (Folie 3 10)
+TODO Was wird gehandelt? (Base, Peak, Stunden, Viertelstunden) F 3 13
+
+
+</details>
+<details><summary>In welche Segmente ist der Spotmarkt untergliedert?</summary>
+
+TODO Folie 3 8
+
+Day Ahead mit Markträumungspreis = Auktion ???
+
+Fortlaufender Handel = ohne Markträumungspreis???
+
+</details>
+<details><summary>Wie wird am Day-Ahead Markt gehandelt?</summary>
+
+TODO F 3 15
+TODO Beispiel der Tabelle
+
+</details>
+<details><summary>Wozu dient Demand-Side-Management (DSM) und welche Möglichkeiten gibt es?</summary>
+
+TODO F 3 23
+
+</details>
+<details><summary>Welche Auftragsarten gibt es beim Intraday Handel?</summary>
+
+TODO F 3 31
+
+</details>
+<details><summary>Was meint Marktkopplung?</summary>
+
+TODO 
+TODO Kuppelkapazität / Grenzüberschreitende Transportgrenzen
+
+</details>
+<details><summary>Wie erfolgt der Handel auf verschiedenen Märkten?</summary>
+
+TODO F 3 34
+
+</details>
+<details><summary>Warum können grenzüberschreitende Handelsaktivitäten gewinnbringend sein?</summary>
+
+Raumarbitrage. TODO
+
+</details>
+<details><summary>Auf welchem Markt werden Windräder gehandelt?</summary>
+
+Intraday Markt.
+
+</details>
+<details><summary>Was ist Arbitragehandel?</summary>
+
+TODO F3 40
+Arbitrage = Zusätzliche Gewinne ohne Risiko abschließen, durch Ausnutzung von Kurs-, Zins-, oder Preisunterschieden.
+
+</details>
+<details><summary>Welche Regelleistungen gibt es und in welcher Zeit müssen diese verfügbar sein? In welcher Größenordnung fällt diese circa an?</summary>
+
+TODO F 3 45/46
+TODO F 3 52
+
+</details>
+<details><summary>Welche Netzfrequenzen sind in Ordnung?</summary>
+
+Totband = 49.99 bis 50.01 Hz --> alles ok
+47.5 Hz --> Blackout
+52.5 Hz --> Oh Wunder, auch Blackout
+
+F3 49
+
+
+</details>
+<details><summary>Was versteht man unter Pooling?</summary>
+
+F 3 53
+
+</details>
+<details><summary>Wie erfolgt der Handel von Regelenergie?</summary>
+
+F 3 54/ 55 / 56
+</details>
+
 ## Forward und Futuresmärkte
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Forward%20und%20Futuresmärkte/Fragen%20aus%20Vorlesung.md).
 <details><summary>Beispielfrage</summary>
