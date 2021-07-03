@@ -1,5 +1,46 @@
 #Fragenkatalog
 ## Grundlage von Märkten
+Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20aus%20Vorlesung.md).
+<details><summary>Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?</summary>
+
+TODO
+
+</details>
+<details><summary>Was ist eine Angebotsfunktion? Was beeinflusst die Lage und die Form einer Angebotsfunktion?</summary>
+
+TODO
+
+</details>
+<details><summary>Erläutern Sie detailliert die verschiedenen Kosten/Kostenfunktionen. Erläutern Sie einen Wirkungsgrad eines Energiewandlungsprozesses bzw. dessen Form/Verlauf. Beschreiben Sie, wie Sie mithilfe des Wirkungsgrades die Brennstoffkostenfunktion ausgedrückt in Strommengen ableiten (unterstellen Sie einen konstanten Brennstoffpreis). Was bedeutet dieser Verlauf für den Verlauf der Kostenfunktion?</summary>
+
+TODO
+
+</details>
+<details><summary>Sie kommen zu dem Schluss, dass die Kostenfunktion über ein Polynom dritten Grades beschreibbar ist. Berechnen und skizzieren Sie die Grenzkosten und die variablen Durchschnittskosten.</summary>
+
+TODO
+
+</details>
+<details><summary>Was ist eine Nachfragefunktion? Was beeinflusst die Lage und die Form einer Nachfragefunktion?</summary>
+
+TODO
+
+</details>
+<details><summary>Was ist der Gleichgewichtspreis? Charakterisieren Sie den Gleichgewichtspreis in Bezug auf die resultierende volkswirtschaftliche Wohlfahrt.</summary>
+
+TODO
+
+</details>
+<details><summary>Inwiefern mindern Oligopol- als auch Monopolstruktur die Wohlfahrt in einem Markt?</summary>
+
+TODO
+
+</details>
+<details><summary>Beschreiben Sie die Rolle / Funktionen von Märkten in der Energiewirtschaft.</summary>
+
+TODO 
+</details>
+
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20von%20GEK.md).
 <details><summary>Was ist ein natürliches Monopol? Und welche Netze zählen dazu?</summary>
 
