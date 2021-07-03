@@ -42,9 +42,9 @@ TODO
 </details>
 
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20von%20GEK.md).
-<details><summary>Was ist ein natürliches Monopol? Und welche Netze zählen dazu?</summary>
+<details><summary>Was ist ein natürliches Monopol? Und welche Netze zählen dazu? </summary>
 
-TODO
+"Märkte, die sich natürlicherweise verklumpen /konzentrieren + 1 Anbieter herausbilden, der die Dienstleistung (Netzbetrieb) pro Region anbietet." ~ Borchert
 
 Strom- und Gasnetze zählen als natürliches Monopol, da bei beiden Netzen weitere Mitbewerber hohe Investitionskosten haben und sich der Einstieg nicht lohnt.
 Bei Fernwärmenetzen verhält sich das anders. TODO
@@ -53,17 +53,30 @@ Bei Fernwärmenetzen verhält sich das anders. TODO
 <details><summary>Was ist die Produzenten- und Konsumentenrente?</summary>
 
 Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumungspreis.
-TODO Bild?
+![](./Fragenkatalog/00 Grundlage von Märkten/Nachfragekurve.png)
 
 </details>
 <details><summary>Was ist der Unterschied zwischen vollständig substiturierbaren Gütern und komplementären Gütern?</summary>
 
-TODO, Folie 1 20
+**Vollständig substiturierbare Güter**
+- Wenn das eine Gut jeweils Ersatz für das andere findet. (z.B. Fisch und Fleisch)
+- Eine Preiserhöhung von Gut A kann zu einer Preiserhöhung von Gut B führen.
+
+**Komplementäre Güter** 
+- Die Verwendung der Güter ist aneinander gekoppelt. (z.B. Auto und Bezin)
+- Ein Anstieg der Bezinpreise kann zu einem Rückgang der Nachfrage nach Autos führen.
+
 
 </details>
-<details><summary>Wie sind die Begriffe Elastisch und unelastisch bei Preiselastizität definiert?</summary>
+<details><summary>Wie sind die Begriffe Elastisch und Unelastisch bei Preiselastizität definiert?</summary>
 
-TODO, F 1 21
+**Elastisch**
+- Bei einer Preiserhöhung von 1% (des Angebots) geht die Nachfrage um > 1% zurück.
+- Die Nachfrager können auf das Ware verzichten.
+
+**Unelastisch**
+- Bei einer Preiserhöhung von 1% (des Angebots) geht die Nachfrage um < 1% zurück.
+- Die Nachfrager sind auf die Ware angewiesen.
 
 </details>
 <details><summary>Definieren Sie Gesamtkosten, Fixkosten, Variable Kosten, Durchschnittskosten und Grenzkosten.</summary>
