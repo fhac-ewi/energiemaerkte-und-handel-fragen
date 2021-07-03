@@ -134,6 +134,8 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Spotmärkte/Fra
 <details><summary>Beispielfrage</summary>
 
 Beispielantwort
+
+TODO F 3 82 übernehmen
 </details>
 
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20von%20GEK.md).
