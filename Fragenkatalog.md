@@ -46,6 +46,7 @@ TODO
 <details><summary><b>Beschreiben Sie die Rolle / Funktionen von Märkten in der Energiewirtschaft.</b></summary>
 <table><tr><td>
 TODO 
+</td></tr></table>
 </details>
 
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20von%20GEK.md).
@@ -144,6 +145,7 @@ TODO
 **Betriebswirtschaftliche Funktionen**
 TODO
 
+</td></tr></table>
 </details>
 
 ## Themengebiet
@@ -161,6 +163,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Spotmärkte/Fra
 Beispielantwort
 
 TODO F 3 82 übernehmen
+</td></tr></table>
 </details>
 
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20von%20GEK.md).
@@ -264,6 +267,7 @@ F 3 53
 <details><summary><b>Wie erfolgt der Handel von Regelenergie?</b></summary>
 <table><tr><td>
 F 3 54/ 55 / 56
+</td></tr></table>
 </details>
 
 ## Forward und Futuresmärkte
@@ -271,6 +275,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Forward%20und%2
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Operataionsmärkte und Optionsbewertung
@@ -278,6 +283,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/03%20Operataionsmär
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Markteffizienz und Dynamik von Preisen
@@ -285,6 +291,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Markteffizienz%
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Optionsbewertung und Optionen
@@ -292,6 +299,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Optionsbewertun
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Organisation des Energiehandels und des Risikomanagements
@@ -299,6 +307,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/06%20Organisation%20
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Operatives Risikomanagement
@@ -306,6 +315,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/07%20Operatives%20Ri
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
 ## Pricing strukturierter Lieferverträge
@@ -313,5 +323,6 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/08%20Pricing%20struk
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
 Beispielantwort
+</td></tr></table>
 </details>
 
