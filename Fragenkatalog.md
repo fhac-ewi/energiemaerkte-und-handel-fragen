@@ -286,9 +286,69 @@ F 3 54/ 55 / 56
 
 ## Forward und Futuresmärkte
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Forward%20und%20Futuresmärkte/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
+<details><summary><b>Was sind Termingeschäfte? Was ist der Unterschied zwischen bedingten und unbedingten Termingeschäften?</b></summary>
 <table><tr><td>
-Beispielantwort
+TODO 
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Eigenschaften hat ein Forward auf eine Aktie? Wie ist dagegen ein Forward auf eine Energielieferung definiert? </b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Definieren Sie einen Strom- oder Gas-Future. Inwiefern unterscheidet sich der Energie-Future vom Energie-Forward?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Grenzen Sie den Forward zum Fahrplan ab. Inwiefern haben Lieferverträge Flexibilitäten? Inwiefern kann man hier von Option sprechen?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was bedeutet Hedging? Erläutern Sie ausführlich das Konzept.</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was bedeutet Arbitrage? Was bedeutet und impliziert ein arbitragefreier Markt?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Beschreiben Sie ein offenes Orderbuch. Inwiefern gilt hier die Preisregel pay as bid?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist eine Forward- bzw. Futurekurve? </b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Beschreiben Sie eine mark to market. Definieren Sie Normal Backwardation und Contango.</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Wann ist eine Forwardkurve in Normal Backwardation, wann in Contango?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Beschreiben Sie das Margining-System an der EEX. Welchem Zweck dient dieses?</b></summary>
+<table><tr><td>
+TODO
 </td></tr></table>
 </details>
 
