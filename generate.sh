@@ -21,6 +21,6 @@ do
                 -e 's/^##*.*/<\/td><\/tr><\/table>\n<\/details>\n<details><summary><b>&<\/b><\/summary>\n<table><tr><td>/' \
                 -e 's/<summary><b>#[ ]*/<summary><b>/g' \
                 -e "s|(\./|(\./$escapedFolder/|g" \
-                -e '$a</details>\n' >> Fragenkatalog.md
+                -e '$a<\/td><\/tr><\/table>\n</details>\n' >> Fragenkatalog.md
     done
 done
