@@ -8,7 +8,15 @@ TODO
 TODO
 
 # Sie kommen zu dem Schluss, dass die Kostenfunktion über ein Polynom dritten Grades beschreibbar ist. Berechnen und skizzieren Sie die Grenzkosten und die variablen Durchschnittskosten.
-TODO
+Kostenfunktion: `f(x)=a*x^3 + b*x^2 + c*x + d`
+
+Fixkosten: `d`
+
+Variable Kosten: `a*x^3 + b*x^2 + c*x`
+
+Grenzkosten: `3*a*x^2 + 2*b*x + c` (Ableitung der variablen Kosten)
+
+variable Durchschnittskosten: ???
 
 # Was ist eine Nachfragefunktion? Was beeinflusst die Lage und die Form einer Nachfragefunktion?
 TODO
@@ -17,7 +25,8 @@ TODO
 TODO
 
 # Inwiefern mindern Oligopol- als auch Monopolstruktur die Wohlfahrt in einem Markt?
-TODO
+Minderung der Konsumentenrente. Falls es wenige oder nur einen Anbieter gibt, kann dieser den Preis frei bestimmen. Dadurch müssen die Konsumenten/Nachfrager mehr für das Produkt zahlen.
+Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde die Produzentenrente gemindert. Dies ist jedoch in der Energiewirtschaft eher nicht der Fall.
 
 # Beschreiben Sie die Rolle / Funktionen von Märkten in der Energiewirtschaft.
 TODO 
