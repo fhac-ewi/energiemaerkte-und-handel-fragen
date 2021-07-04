@@ -93,13 +93,21 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 </details>
 <details><summary><b>Definieren Sie Gesamtkosten, Fixkosten, Variable Kosten, Durchschnittskosten und Grenzkosten.</b></summary>
 <table><tr><td>
-TODO
+
+| Bezeichung | Definition |
+| ---------- | ---------- |
+| Gesamtkosten | Summe aus Fixkosten und variablen Kosten. |
+| Fixkosten | Kosten, die **unabhängig** der produzierten Menge anfallen. (z.B. Personalkosten, Wartungskosten) |
+| Variable Kosten | Kosten, die **abhängig** der produzierten Menge anfallen. (z.B. Rohstoffkosten) |
+| Durchschnittskosten | (auch Stückkosten) Gibt die Kosten je produzierter Einheit an. (Gesamtkosten / Stückzahl = Durchschnittskosten) |
+| Grenzkosten | Ableitung der variablen Kosten; Also der Anstieg der variablen Kosten für eine Produktion einer weiteren Einheit. |
+
 
 </td></tr></table>
 </details>
 <details><summary><b>Was kann bei Variablen Kosten auftreten?</b></summary>
 <table><tr><td>
-Skaleneffekte. TODO
+Skaleneffekte. Je mehr produziert wird, desto günstiger sind die Durchschnittskosten je produzierter Einheit.
 
 </td></tr></table>
 </details>
@@ -140,10 +148,15 @@ Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die F
 <details><summary><b>Energiegroßhandelsmärkte haben verschiedene betriebswirtschaftliche und volkwirtschaftliche Funktionen. Benenne diese.</b></summary>
 <table><tr><td>
 **Volkswirtschaftlicher Funktionen**
-TODO
+- **Allokationsfunktion**: Optimaler Einsatz von Ressourcen.
+- **Lenkungsfunktion**: Langfristige Preisanreize für Investitionen in Kraftwerke durch Future-Geschäfte im Terminmarkt.
+- **Risikomanagement**: Preisrisiken werden aus dem Markt genommen.
 
 **Betriebswirtschaftliche Funktionen**
-TODO
+- **Hedging**: Absicherung gegen Preisrisiken
+- **Optimierung**: Gewinnmaximierung durch Kraftwerkseinsatzoptimierung
+- **Arbitrage**: Arbitragegeschäfte zum Ausnutzen von Preisunterschieden in Märkten möglich
+- **Spekulation**: Erzielen von GEwinnen durch Spekulation auf Marktentwicklungen möglich
 
 </td></tr></table>
 </details>
