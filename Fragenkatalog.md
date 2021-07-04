@@ -172,11 +172,57 @@ Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die F
 
 ## Spotmärkte
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Spotmärkte/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
+<details><summary><b>Welche Produkte werden an Energiemärkten gehandelt? Beschreiben Sie die grundsätzlichen Eigenschaften der Produkte.</b></summary>
 <table><tr><td>
-Beispielantwort
+TODO 
 
-TODO F 3 82 übernehmen
+</td></tr></table>
+</details>
+<details><summary><b>Welche Marktstufen werden im Energiemarkt unterschieden? Welche Funktionen übernehmen die Spotmärkte aus folgenden Perspektiven Kraftwerksmanagement, Vertriebs- und Beschaffungsmanagement und Netzmanagement?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Beschreiben Sie detailliert anhand eines thermischen Kraftwerks, wie Sie ein Gebot für den Spotmarkt formulieren würden. Welche Relevanz haben Blockgebote für Sie?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Beschreiben Sie genau, wie Anbieter und Nachfrager Gebote an dem Day-Ahead-Spotmarkt abgeben können (Kommunikationsprozess mit der Börse). Wie heißt das an der Börse stattfindende Auktionsverfahren? Welche Vor- und Nachteile hat dieses Verfahren?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche fundamentalen Einflussgrößen auf den Spotpreis sind vorstellbar? Beschreiben Sie detailliert die Wirkung des CO2-Preises auf die merit order.</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Funktion und Bedeutung hat der Intradaymarkt? Vergleichen Sie das Preisbildungsverfahren am Intradaymarkt mit dem des Day-Ahead-Spotmarktes.</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Warum existiert ein europäischer Handel? Was limitiert diesen Handel? Angenommen, Sie müssten eine Investition in eine zwei Marktgebiete verbindende Kuppelkapazität genehmigen, worauf würden Sie achten? Erläutern Sie anhand der beiden Marktdiagramme.</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie den Regelenergiemarkt. Welche Faktoren beeinflussen die ausgeschriebene Kapazität?</b></summary>
+<table><tr><td>
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie die Funktion des Ausgleichsenergiemechanismus.</b></summary>
+<table><tr><td>
+TODO
 </td></tr></table>
 </details>
 
