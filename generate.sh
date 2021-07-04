@@ -17,9 +17,9 @@ do
         echo "Appending file $F"
         echo "Fragen aus der Datei [$(basename "$F" .md)](./$(echo "$F" | sed -e 's/(/%28/g' -e 's/)/%29/g' -e 's/ /%20/g'))."  >> Fragenkatalog.md
         escapedFolder=$(echo "$D" | sed -e 's/(/%28/g' -e 's/)/%29/g')
-        cat "$F" | sed -e '0,/#/s/^##*.*/<details><summary>&<\/summary>\n/' \
-                -e 's/^##*.*/<\/details>\n<details><summary>&<\/summary>\n/' \
-                -e 's/<summary>#[ ]*/<summary>/g' \
+        cat "$F" | sed -e '0,/#/s/^##*.*/<details><summary><b>&<\/b><\/summary>\n<table><tr><td>/' \
+                -e 's/^##*.*/<\/td><\/tr><\/table>\n<\/details>\n<details><summary><b>&<\/b><\/summary>\n<table><tr><td>/' \
+                -e 's/<summary><b>#[ ]*/<summary><b>/g' \
                 -e "s|(\./|(\./$escapedFolder/|g" \
                 -e '$a</details>\n' >> Fragenkatalog.md
     done
