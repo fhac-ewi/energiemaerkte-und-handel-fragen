@@ -21,7 +21,15 @@ TODO
 </details>
 <details><summary><b>Sie kommen zu dem Schluss, dass die Kostenfunktion über ein Polynom dritten Grades beschreibbar ist. Berechnen und skizzieren Sie die Grenzkosten und die variablen Durchschnittskosten.</b></summary>
 <table><tr><td>
-TODO
+Kostenfunktion: `f(x)=a*x^3 + b*x^2 + c*x + d`
+
+Fixkosten: `d`
+
+Variable Kosten: `a*x^3 + b*x^2 + c*x`
+
+Grenzkosten: `3*a*x^2 + 2*b*x + c` (Ableitung der variablen Kosten)
+
+variable Durchschnittskosten: ???
 
 </td></tr></table>
 </details>
@@ -39,7 +47,8 @@ TODO
 </details>
 <details><summary><b>Inwiefern mindern Oligopol- als auch Monopolstruktur die Wohlfahrt in einem Markt?</b></summary>
 <table><tr><td>
-TODO
+Minderung der Konsumentenrente. Falls es wenige oder nur einen Anbieter gibt, kann dieser den Preis frei bestimmen. Dadurch müssen die Konsumenten/Nachfrager mehr für das Produkt zahlen.
+Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde die Produzentenrente gemindert. Dies ist jedoch in der Energiewirtschaft eher nicht der Fall.
 
 </td></tr></table>
 </details>
