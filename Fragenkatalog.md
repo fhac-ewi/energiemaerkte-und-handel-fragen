@@ -229,79 +229,147 @@ TODO
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20von%20GEK.md).
 <details><summary><b>Welche unterschiedlichen Märkte gibt es mit welchen Fristigkeiten? Und wie werden jeweils die Handelsgeschäfte gebildet?</b></summary>
 <table><tr><td>
-TODO
-Folie 3 6
-TODO Jeweils dazu schreiben ob Merit-Order oder Pay as bid oder ...
-TODO Wozu ist der jeweilige Markt da? 
-TODO Handel einsehbar oder verdeckt? (Folie 3 10)
-TODO Was wird gehandelt? (Base, Peak, Stunden, Viertelstunden) F 3 13
+![](https://www.next-kraftwerke.de/wp-content/uploads/handelsfristen-an-strommaerkten.png)
 
+| Markt | Produkte | Preisfindung | Nutzen |
+| ----- | -------- | ------------ | ------ |
+| Terminhandel | divers | Bilateral | Risikominimierung / Grobe Abstimmung |
+| Day-Ahead-Auktion | Stunden und Viertelstunden | Merit-Order | ? | 
+| Day-Ahead-Auktion Spot | Stunden und Blockgebote | Merit-Order | ? | 
+| Intraday-Auktion | Viertelstunden | Merit-Order | ? |
+| Intraday-Handel | Stunden und Viertelstunden | Pay as bid | ? | 
 
 </td></tr></table>
 </details>
 <details><summary><b>In welche Segmente ist der Spotmarkt untergliedert?</b></summary>
 <table><tr><td>
-TODO Folie 3 8
+**Day ahead Auktion**
+- Handel findet als tägliche Auktion statt.
+- Es werden die 24 Stunden des Folgetages gehandelt. Die Produkte sind Blocks, Stunden oder Viertelstunden.
+- Merit Order
 
-Day Ahead mit Markträumungspreis = Auktion ???
+**Intraday Handel**
+-  Kontinuierlicher Handel 
+-  Gehandelt wird der gleiche Tag (bis 5 min vor physischer Erfüllung) bzw. der Folgetag.
+-  Pay as bid. Die Käufer geben Gebote ab und werden direkt mit einem Käufer "gematcht". Der Handel wird direkt abgeschlossen, falls die Gebote stimmen.
 
-Fortlaufender Handel = ohne Markträumungspreis???
+Folie 3 - 8
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist die Merit-Order?</b></summary>
+<table><tr><td>
+Bei einer Auktion geben alle Käufer und Verkäufer verdeckt Gebote ab. Das bedeutet, dass keiner weiß, was die anderen tun.
+
+Nach Abschluss der Auktion wird der Schnittpunkt der Nachfrage- und Angebotskurve ermittelt. (Merit-Order-Verfahren) Der da festgesetzte Preis muss von allen Käufern an die Verkäufer gezahlt werden - unabhängig des vorherigen Gebots.
+Die Differenz zwischen Gebot zu Markträumungspreis wird Wohlfahrt genannt. (Konsumtenrente und Produzentenrente)
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie wird am Day-Ahead Markt gehandelt?</b></summary>
 <table><tr><td>
-TODO F 3 15
-TODO Beispiel der Tabelle
+Die Käufer und Verkäufer geben anonym Gebote ab. Dabei geben sie für jede Stunde Paare aus Preis/Volumen ab.
+
+Kaufwünsche = Positive Menge
+Verkaufswünsche = Negative Menge
+
+Die Teilnehmer können selbstständig die Preisschritte innerhalb der Preisgrenzen (-500 € und 3000 € pro MWh) festlegen
+
+Darstellung oftmals in Form einer Matrix:
+- Zeilen stellen die Stunden dar
+- Spalten die Preise
+- Mengen in den jeweiligen Kästen
+
+![](./Fragenkatalog/01 Spotmärkte/Gebotsabgabe.PNG)
+
+Folie 3 - 15
 
 </td></tr></table>
 </details>
 <details><summary><b>Wozu dient Demand-Side-Management (DSM) und welche Möglichkeiten gibt es?</b></summary>
 <table><tr><td>
-TODO F 3 23
+DSM dient der Flexibilisierung der Stromnachfrage, um eine optimale Auslastung zu erlangen. Ziel ist vorallem die Nivellierung (Glättung) des Lastgangs für eine optimale Kraftwerksauslastung und die Vermeidung von Lastspitzen.
+
+**Lastmanagementstrategien**
+- Peak Clipping: Vermeidung von Lastspitzen
+- Valley Filling: Füllen von Niedriglastphasen
+- Load Shifting: Verschiebung der Nachfrage von Spitzenlast zu Niedriglastzeiten
+
+![](./Fragenkatalog/01 Spotmärkte/Lastmanagementstrategien.PNG)
+
+Folie 3 - 23
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Auftragsarten gibt es beim Intraday Handel?</b></summary>
 <table><tr><td>
-TODO F 3 31
+**Limit Orders**
+- Kauf- und Verkaufsgebote mit Preislimit. (Minimaler Verkaufs- oder maximaler Kaufpreis)
+- Solche Aufträge werden i.d.R. nicht sofort ausgeführt.
+
+**Market Sweep Order**
+- Auftrag mit der Bedingung einer sofortigen vollständigen (oder teilweisen) Ausführung. (IOC)
+- Der Auftrag wird sofort ausgeführt - zu dem gerade vorherschenden Preis.
+
+Zusätzlich gibt es noch **Ausführungsbedingungen**, unter denen die Aufträge ausgeführt werden:
+- Immediate or cancel (IOC): sofortige vollständige oder teilweise Ausführung des Auftrags 
+- Fill-or-kill (FOK): sofortige, vollständige Ausführung des Auftrages.
+- All-or-none (AON): vollständige Ausführung des Auftrages, Auftrag verbleibt im Orderbuch
+
+Folie 3 - 31
 
 </td></tr></table>
 </details>
 <details><summary><b>Was meint Marktkopplung?</b></summary>
 <table><tr><td>
-TODO 
-TODO Kuppelkapazität / Grenzüberschreitende Transportgrenzen
+Marktkopplung meint den europaweiten Handel über die Ländergrenzen hinweg. Es stehen für solche Handelsgeschäfte aber nur beschränkte Transportkapazitäten zur Verfügung. Diese Kapazitäten werden von dem Übertragungsnetzbetreiber vergeben, damit diese effizient genutzt werrden können. 
+
+Die maximalen Transportkapazitäten an den Ländergrenzen/zwischen den Märkten werden auch Kuppelkapazität genannt.
+
+Folie 3 - 32
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie erfolgt der Handel auf verschiedenen Märkten?</b></summary>
 <table><tr><td>
-TODO F 3 34
+Es müssen zuerst Transportkapazitäten bei dem ÜNB angefragt werden. Die Kapazitäten werden von dem ÜNB versteigert. Erst wenn man den Zuschlag erhält, kann man auf dem anderen Marktplatz handeln und versuchen durch Arbitragegeschäfte die Preisunterschiede auszunutzen.
+
+Folie 3 - 34
 
 </td></tr></table>
 </details>
 <details><summary><b>Warum können grenzüberschreitende Handelsaktivitäten gewinnbringend sein?</b></summary>
 <table><tr><td>
-Raumarbitrage. TODO
+Raumarbitrage. (Ich kaufe günstigen Strom im Ausland und kann diesen günstig selbst verbrauchen oder auf dem heimischen Strommarkt weiterverkaufen.)
 
 </td></tr></table>
 </details>
 <details><summary><b>Auf welchem Markt werden Windräder gehandelt?</b></summary>
 <table><tr><td>
-Intraday Markt.
+Intraday Markt, da im Vorfeld unklar ist wieviel Energie produziert wird. 
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist Arbitragehandel?</b></summary>
 <table><tr><td>
-TODO F3 40
-Arbitrage = Zusätzliche Gewinne ohne Risiko abschließen, durch Ausnutzung von Kurs-, Zins-, oder Preisunterschieden.
+Arbitrage ist die ohne Risiko vorgenommene Ausnutzung von Kurs-, Zins- oder Preisunterschieden zum selben Zeitpunkt mit dem Ziel der Gewinnmitnahme. Im Gegensatz zur Spekulation ist die Arbitrage nicht risikobehaftet.
+
+- Devisenarbitrage
+- Differenzarbitrage
+- Raumarbitrage
+- Zeitarbitrage
+- Ausgleichsarbitrage
+
+Folie 3 - 40
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Regelleistungen gibt es und in welcher Zeit müssen diese verfügbar sein? In welcher Größenordnung fällt diese circa an?</b></summary>
 <table><tr><td>
+![](https://www.next-kraftwerke.de/wp-content/uploads/Aktivierung-der-verschiedenen-Regelenergiearten-scaled.jpg)
+
+![](./Fragenkatalog/01 Spotmärkte/Regelenergie.PNG)
+
 TODO F 3 45/46
 TODO F 3 52
 
@@ -327,6 +395,12 @@ F 3 53
 <details><summary><b>Wie erfolgt der Handel von Regelenergie?</b></summary>
 <table><tr><td>
 F 3 54/ 55 / 56
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist Intrinsic Rolling?</b></summary>
+<table><tr><td>
+TODO
 </td></tr></table>
 </details>
 
