@@ -28,10 +28,18 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 - Die Nachfrager sind auf die Ware angewiesen.
 
 # Definieren Sie Gesamtkosten, Fixkosten, Variable Kosten, Durchschnittskosten und Grenzkosten.
-TODO
+
+| Bezeichung | Definition |
+| ---------- | ---------- |
+| Gesamtkosten | Summe aus Fixkosten und variablen Kosten. |
+| Fixkosten | Kosten, die **unabhängig** der produzierten Menge anfallen. (z.B. Personalkosten, Wartungskosten) |
+| Variable Kosten | Kosten, die **abhängig** der produzierten Menge anfallen. (z.B. Rohstoffkosten) |
+| Durchschnittskosten | (auch Stückkosten) Gibt die Kosten je produzierter Einheit an. (Gesamtkosten / Stückzahl = Durchschnittskosten) |
+| Grenzkosten | Ableitung der variablen Kosten; Also der Anstieg der variablen Kosten für eine Produktion einer weiteren Einheit. |
+
 
 # Was kann bei Variablen Kosten auftreten?
-Skaleneffekte. TODO
+Skaleneffekte. Je mehr produziert wird, desto günstiger sind die Durchschnittskosten je produzierter Einheit.
 
 # Wie errechnet sich das Gewinnmaximum eines Unternehmens?
 Wenn der Grenzerlös gleich den Grenzkosten ist.
@@ -57,8 +65,13 @@ Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die F
 
 # Energiegroßhandelsmärkte haben verschiedene betriebswirtschaftliche und volkwirtschaftliche Funktionen. Benenne diese.
 **Volkswirtschaftlicher Funktionen**
-TODO
+- **Allokationsfunktion**: Optimaler Einsatz von Ressourcen.
+- **Lenkungsfunktion**: Langfristige Preisanreize für Investitionen in Kraftwerke durch Future-Geschäfte im Terminmarkt.
+- **Risikomanagement**: Preisrisiken werden aus dem Markt genommen.
 
 **Betriebswirtschaftliche Funktionen**
-TODO
+- **Hedging**: Absicherung gegen Preisrisiken
+- **Optimierung**: Gewinnmaximierung durch Kraftwerkseinsatzoptimierung
+- **Arbitrage**: Arbitragegeschäfte zum Ausnutzen von Preisunterschieden in Märkten möglich
+- **Spekulation**: Erzielen von GEwinnen durch Spekulation auf Marktentwicklungen möglich
 
