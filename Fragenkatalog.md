@@ -576,6 +576,67 @@ Beispielantwort
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/03%20Operataionsmärkte%20und%20Optionsbewertung/Fragen%20von%20GEK.md).
+<details><summary><b>Welche Optionen werden im Energiemarkt gehandelt?</b></summary>
+<table><tr><td>
+- Option auf Futures
+- Option in Lieferverträgen
+- Option auf Spotpreise
+- Option auf Wetter
+
+F 8 - 7
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche physischen Assets weisen Optionscharakter auf?</b></summary>
+<table><tr><td>
+**Kraftwerke** können laufen oder aber nicht. Option auf clean spread.
+
+**Speicher** können Ausspeichern oder nicht. Option auf Kalender-Spread.
+
+Könnnen auch als Realoptionen bezeichnet werden.
+
+F 8 - 8
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist der faire Preis einer Option?</b></summary>
+<table><tr><td>
+TODO F 8 - 12
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind die Spezifikationen von Optionen?</b></summary>
+<table><tr><td>
+- Verfalltermin
+- Basis- bzw. Ausübungspreis
+- Spezielle Terminologien
+- Positionsgrenzen
+
+F 8 - 17
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist der Unterschied zwischen einer europäischen und amerikanischen Option?</b></summary>
+<table><tr><td>
+TODO F 8 - 19
+
+</td></tr></table>
+</details>
+<details><summary><b>Nennen Sie die Werttreiber einer europäischen Call Option.</b></summary>
+<table><tr><td>
+- Volatilität (+)
+- Aktueller Kurs des Basiswerts (+)
+- Risikoloser Zins (+)
+- Dividenden (-)
+- Basispreis (-)
+- Restlaufzeit (?)
+
+TODO F 8 - 20 das ganze Diagramm verstehen
+
+</td></tr></table>
+</details>
+
 ## Markteffizienz und Dynamik von Preisen
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Markteffizienz%20und%20Dynamik%20von%20Preisen/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
