@@ -512,11 +512,3 @@ Beispielantwort
 </td></tr></table>
 </details>
 
-## Pricing strukturierter Lieferverträge
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/08%20Pricing%20strukturierter%20Lieferverträge/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
-<table><tr><td>
-Beispielantwort
-</td></tr></table>
-</details>
-
