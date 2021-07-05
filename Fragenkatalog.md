@@ -472,6 +472,102 @@ TODO
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/02%20Forward%20und%20Futuresmärkte/Fragen%20von%20GEK.md).
+<details><summary><b>Welche Arten von Termingeschäften gibt es?</b></summary>
+<table><tr><td>
+- physische Erfüllung / Forward - Preis sichern für zukünftige Lieferung
+- finanzielle Erfüllung / Future - 
+- Wahlrecht / Option - entweder man kauft oder lässt es verfallen
+
+TODO F 6 - 6
+
+</td></tr></table>
+</details>
+<details><summary><b>Wann ist die Fälligkeit der Zahlungen bei Future und Forward?</b></summary>
+<table><tr><td>
+Bei Forward wird die Zahlung am Schluss getätigt. (Käufer braucht hohe Bonität)
+
+Ein Future findet die Zahlung fortlaufend/direkt statt. 
+
+</td></tr></table>
+</details>
+<details><summary><b>Forward: Was? Zwischen wem? Inhalt? </b></summary>
+<table><tr><td>
+TODO
+F 6 - 9
+
+</td></tr></table>
+</details>
+<details><summary><b>Fahrplan: Was? Zwischen wem? Inhalt? </b></summary>
+<table><tr><td>
+TODO
+F 6 - 10
+
+</td></tr></table>
+</details>
+<details><summary><b>Future: Was? Zwischen wem? Inhalt? </b></summary>
+<table><tr><td>
+TODO
+F 6 - 11
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Vorteile haben die Termingeschäfte für Käufer und Verkäufer?</b></summary>
+<table><tr><td>
+- Sicherung von Preisen
+- Sicherung von Abnahmemengen
+
+</td></tr></table>
+</details>
+<details><summary><b>Wieso ist eine Option ein asymmetrisches Produkt?</b></summary>
+<table><tr><td>
+Käufer und Verkäufer haben nicht die gleichen Rechte.
+
+F 6 - 17
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist eine europäische Option oder amerikanische Option?</b></summary>
+<table><tr><td>
+Europäische Option kann in einem bestimmten **Zeitpunkt** ausgelöst werden. Eine amerikanische Option in einem bestimmten **Zeitraum**.
+
+</td></tr></table>
+</details>
+<details><summary><b>Was meint Hedging, Arbitrage und Spekulation?</b></summary>
+<table><tr><td>
+TODO 
+F 6 - 25
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind Market Maker?</b></summary>
+<table><tr><td>
+Sicherstellen von Gleichgewicht zwischen Angebot und Nachfrage.
+TODO Googlen wie das funktioniert
+TODO F 6 - 31
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind Settlement Preise?</b></summary>
+<table><tr><td>
+TODO 
+F 6 - 32
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind langfristige und kurzfristige Faktoren?</b></summary>
+<table><tr><td>
+TODO F 6 - 49
+
+</td></tr></table>
+</details>
+<details><summary><b>Welchen Einfluss haben langfrisitge und kurzfristige Faktoren?</b></summary>
+<table><tr><td>
+TODO F 6 - 49
+
+</td></tr></table>
+</details>
+
 ## Operataionsmärkte und Optionsbewertung
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/03%20Operataionsmärkte%20und%20Optionsbewertung/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
