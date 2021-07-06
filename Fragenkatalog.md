@@ -734,6 +734,14 @@ Beispielantwort
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/05%20Optionsbewertung%20und%20Optionen/Fragen%20von%20GEK.md).
+<details><summary><b>Beispielfrage</b></summary>
+<table><tr><td>
+TODO 
+F 10 -
+</td></tr></table>
+</details>
+
 ## Organisation des Energiehandels und des Risikomanagements
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/06%20Organisation%20des%20Energiehandels%20und%20des%20Risikomanagements/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
