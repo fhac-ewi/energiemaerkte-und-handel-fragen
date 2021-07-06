@@ -742,11 +742,3 @@ Beispielantwort
 </td></tr></table>
 </details>
 
-## Operatives Risikomanagement
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/07%20Operatives%20Risikomanagement/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
-<table><tr><td>
-Beispielantwort
-</td></tr></table>
-</details>
-
