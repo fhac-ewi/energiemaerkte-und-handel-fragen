@@ -3,13 +3,39 @@
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?</b></summary>
 <table><tr><td>
-TODO
+Ein Markt ist ..
+- Ansammlung von **Käufern** und **Verkäufern**
+- Angebot/Verkauf homogener Produkte
+- Preisbestimmung durch Interaktionen der Käufer/Verkäufer 
+
+Warum Märkte?
+- Öffnung für alle Nachfrager -> Abschaffung kartellrechtlicher Ausnahmen
+- Regulierter, diskriminierungsfreier Zugang
+- Verhinderung von natürlichen Monopolen
+
+Gestaltungsmerkmale
+- **Preisnehmerverhalten**: Die Anzahl an Teilnehmern ist so hoch, dass der Einzelne keinen wesentlichen Einfluss auf den Preis ausüben kann.
+- **Produkthomogenität**: Alle Produkte (der verschiedeben Verkäufer) weisen keine relevanten Unterschiede auf. (Vollständige Substituierbarkeit)
+- **Freier Markteintritt/austritt**: Barrierefrei + Käufer haben keine Präferenz von wem sie das Produkt kaufen wollen
+- **Markttransparenz**: Alle Teilnehmer haben jederzeit Überblick über den gesamten Markt. (Produkte, Preise, Mengen, ...)
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist eine Angebotsfunktion? Was beeinflusst die Lage und die Form einer Angebotsfunktion?</b></summary>
 <table><tr><td>
-TODO
+Die Angebotsfunktion besteht aus
+- **Produktionsfunktion**: Zusammenhang zwischen Input und Output
+- **Kostenfunktion**: Produktionsmenge zu anfallenden Kosten
+
+Lagebeziehungen
+- Angebotskurve hängt von den Variablen Kosten ab und wird dadurch beeinflusst.
+- Nachfragekurve hängt von Einkommen und Zahlungsbereitschaft der Konsumenten ab.
+
+**Formale Ausgestaltung der Angebotsfunktion**
+- **Angebot** Führ höhere Marktpreise sind tendenziell mehr Unternehmen bereit zu produzieren. Bei steigenden Preisen **steigt** die angebotene Menge.
+- **Nachfrage** Je niedriger der Preis ist, desto höher fällt die nachgefragte Menge aus. Bei steigenden Preisen **sinkt** die nachgefragte Menge. 
+
+TODO Unsicher bei "besteht aus" und Lagebeziehungen
 
 </td></tr></table>
 </details>
@@ -35,13 +61,18 @@ variable Durchschnittskosten: ???
 </details>
 <details><summary><b>Was ist eine Nachfragefunktion? Was beeinflusst die Lage und die Form einer Nachfragefunktion?</b></summary>
 <table><tr><td>
-TODO
+Nachfrage ist von diversen Faktoren abhängig. Grundsätzlich gilt
+- Bei höherem Kapital sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
+- Bei Knappheit des Gutes sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
+
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist der Gleichgewichtspreis? Charakterisieren Sie den Gleichgewichtspreis in Bezug auf die resultierende volkswirtschaftliche Wohlfahrt.</b></summary>
 <table><tr><td>
-TODO
+**Merit-Order** Der Schnittpunkt bei Zusammenführen der Nachfrage und Angebotskurve ergibt den markträumenden Preis/Gleichgewichtspreis/Markträumungspreis/... .
+
+TODO Mehr?
 
 </td></tr></table>
 </details>
