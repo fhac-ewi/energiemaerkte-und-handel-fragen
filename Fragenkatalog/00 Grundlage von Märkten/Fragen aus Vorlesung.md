@@ -60,4 +60,13 @@ Minderung der Konsumentenrente. Falls es wenige oder nur einen Anbieter gibt, ka
 Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde die Produzentenrente gemindert. Dies ist jedoch in der Energiewirtschaft eher nicht der Fall.
 
 # Beschreiben Sie die Rolle / Funktionen von Märkten in der Energiewirtschaft.
-TODO 
+**Volkswirtschaftlicher Funktionen**
+- **Allokationsfunktion**: Optimaler Einsatz von Ressourcen.
+- **Lenkungsfunktion**: Langfristige Preisanreize für Investitionen in Kraftwerke durch Future-Geschäfte im Terminmarkt.
+- **Risikomanagement**: Preisrisiken werden aus dem Markt genommen.
+
+**Betriebswirtschaftliche Funktionen**
+- **Hedging**: Absicherung gegen Preisrisiken
+- **Optimierung**: Gewinnmaximierung durch Kraftwerkseinsatzoptimierung
+- **Arbitrage**: Arbitragegeschäfte zum Ausnutzen von Preisunterschieden in Märkten möglich
+- **Spekulation**: Erzielen von GEwinnen durch Spekulation auf Marktentwicklungen möglich 
