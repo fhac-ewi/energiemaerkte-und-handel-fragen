@@ -720,8 +720,9 @@ F 9 - 7
 
 </td></tr></table>
 </details>
-<details><summary><b></b></summary>
+<details><summary><b>Ich mag diesen Foliensatz nicht :( </b></summary>
 <table><tr><td>
+TODO F 9 - 22
 </td></tr></table>
 </details>
 
