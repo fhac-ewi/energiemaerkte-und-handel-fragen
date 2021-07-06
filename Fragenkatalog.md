@@ -712,6 +712,19 @@ Beispielantwort
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/04%20Markteffizienz%20und%20Dynamik%20von%20Preisen/Fragen%20von%20GEK.md).
+<details><summary><b>Was ist Informationseffizienz und welche Arten gibt es?</b></summary>
+<table><tr><td>
+TODO 
+F 9 - 7
+
+</td></tr></table>
+</details>
+<details><summary><b></b></summary>
+<table><tr><td>
+</td></tr></table>
+</details>
+
 ## Optionsbewertung und Optionen
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Optionsbewertung%20und%20Optionen/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
