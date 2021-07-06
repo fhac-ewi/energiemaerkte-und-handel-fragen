@@ -1,8 +1,34 @@
 # Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?
-TODO
+Ein Markt ist ..
+- Ansammlung von **Käufern** und **Verkäufern**
+- Angebot/Verkauf homogener Produkte
+- Preisbestimmung durch Interaktionen der Käufer/Verkäufer 
+
+Warum Märkte?
+- Öffnung für alle Nachfrager -> Abschaffung kartellrechtlicher Ausnahmen
+- Regulierter, diskriminierungsfreier Zugang
+- Verhinderung von natürlichen Monopolen
+
+Gestaltungsmerkmale
+- **Preisnehmerverhalten**: Die Anzahl an Teilnehmern ist so hoch, dass der Einzelne keinen wesentlichen Einfluss auf den Preis ausüben kann.
+- **Produkthomogenität**: Alle Produkte (der verschiedeben Verkäufer) weisen keine relevanten Unterschiede auf. (Vollständige Substituierbarkeit)
+- **Freier Markteintritt/austritt**: Barrierefrei + Käufer haben keine Präferenz von wem sie das Produkt kaufen wollen
+- **Markttransparenz**: Alle Teilnehmer haben jederzeit Überblick über den gesamten Markt. (Produkte, Preise, Mengen, ...)
 
 # Was ist eine Angebotsfunktion? Was beeinflusst die Lage und die Form einer Angebotsfunktion?
-TODO
+Die Angebotsfunktion besteht aus
+- **Produktionsfunktion**: Zusammenhang zwischen Input und Output
+- **Kostenfunktion**: Produktionsmenge zu anfallenden Kosten
+
+Lagebeziehungen
+- Angebotskurve hängt von den Variablen Kosten ab und wird dadurch beeinflusst.
+- Nachfragekurve hängt von Einkommen und Zahlungsbereitschaft der Konsumenten ab.
+
+**Formale Ausgestaltung der Angebotsfunktion**
+- **Angebot** Führ höhere Marktpreise sind tendenziell mehr Unternehmen bereit zu produzieren. Bei steigenden Preisen **steigt** die angebotene Menge.
+- **Nachfrage** Je niedriger der Preis ist, desto höher fällt die nachgefragte Menge aus. Bei steigenden Preisen **sinkt** die nachgefragte Menge. 
+
+TODO Unsicher bei "besteht aus" und Lagebeziehungen
 
 # Erläutern Sie detailliert die verschiedenen Kosten/Kostenfunktionen. Erläutern Sie einen Wirkungsgrad eines Energiewandlungsprozesses bzw. dessen Form/Verlauf. Beschreiben Sie, wie Sie mithilfe des Wirkungsgrades die Brennstoffkostenfunktion ausgedrückt in Strommengen ableiten (unterstellen Sie einen konstanten Brennstoffpreis). Was bedeutet dieser Verlauf für den Verlauf der Kostenfunktion?
 TODO
@@ -19,10 +45,15 @@ Grenzkosten: `3*a*x^2 + 2*b*x + c` (Ableitung der variablen Kosten)
 variable Durchschnittskosten: ???
 
 # Was ist eine Nachfragefunktion? Was beeinflusst die Lage und die Form einer Nachfragefunktion?
-TODO
+Nachfrage ist von diversen Faktoren abhängig. Grundsätzlich gilt
+- Bei höherem Kapital sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
+- Bei Knappheit des Gutes sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
+
 
 # Was ist der Gleichgewichtspreis? Charakterisieren Sie den Gleichgewichtspreis in Bezug auf die resultierende volkswirtschaftliche Wohlfahrt.
-TODO
+**Merit-Order** Der Schnittpunkt bei Zusammenführen der Nachfrage und Angebotskurve ergibt den markträumenden Preis/Gleichgewichtspreis/Markträumungspreis/... .
+
+TODO Mehr?
 
 # Inwiefern mindern Oligopol- als auch Monopolstruktur die Wohlfahrt in einem Markt?
 Minderung der Konsumentenrente. Falls es wenige oder nur einen Anbieter gibt, kann dieser den Preis frei bestimmen. Dadurch müssen die Konsumenten/Nachfrager mehr für das Produkt zahlen.
