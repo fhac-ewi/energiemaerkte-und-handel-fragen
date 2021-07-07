@@ -61,6 +61,24 @@ Fragen aus der Datei [01 AMI](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/0
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [02 Maschinenbauer](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/02%20Maschinenbauer.md).
+<details><summary><b>Märkte Grundlagen</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Angebot und Nachfrage</b></summary>
+<table><tr><td>
+
+- was beeinflusst die Lage
+- was beeinflusst die Form
+- was beeinfluss die Krümmung
+- lineare Funktionen
+- empirische identifizierte möglicherweise über empirische ermittelte Näherung an Marktgebote
+</td></tr></table>
+</details>
+
 ## Grundlage von Märkten
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?</b></summary>
