@@ -518,25 +518,35 @@ Arten von Arbitrage
 </details>
 <details><summary><b>Beschreiben Sie ein offenes Orderbuch. Inwiefern gilt hier die Preisregel pay as bid?</b></summary>
 <table><tr><td>
-TODO
+Bei einem **offenen Orderbuch** werden Kauf und Verkaufsgebote anonym (man weiß also nicht von wem die Gebote sind) gegenübergestellt.
+
+Sobald der Kaufpreis eines Gebots größer gleich dem gewünschten Verkaufspreis liegt, kommt es zu einem Geschäftsabschluss. Die beiden Aufträge werden aus dem Orderbuch entfernt.
+Der Käufer muss den von ihm gebotenen Kaufpreis zahlen.
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist eine Forward- bzw. Futurekurve? </b></summary>
 <table><tr><td>
-TODO
+Die Kurven zeigen, wie sich die Preise in der nächsten Zeit entwickeln könnten.
 
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie eine mark to market. Definieren Sie Normal Backwardation und Contango.</b></summary>
 <table><tr><td>
+Bei **market-to-market** werden die Handelsgeschäfte nach Abschluss neu bewertet. Der Wert ist hierbei ungefähr null. (????)
+
+Normal Backwardtion und Contango sind zwei Preissituationen bei Warentermingeschäften. Bei Ersterem liegt der Preis unter dem erwarteten Spotpreis, bei Zweiterem drüber.
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Wann ist eine Forwardkurve in Normal Backwardation, wann in Contango?</b></summary>
 <table><tr><td>
-TODO
+Wenn der Spotpreis **unter** dem im Forward festgesetzten Preis liegt, ist es in Normal Backwardation.
+
+Wenn der Spotpreis **über** dem im Forward festgesetzten Preis liegt, ist es in Contango.
+
 
 </td></tr></table>
 </details>
