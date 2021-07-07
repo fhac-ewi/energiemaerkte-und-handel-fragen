@@ -49,7 +49,22 @@ Fragen aus der Datei [Studiengang](./Fragenkatalog/0%20Fragentypen%20je%20Vorwis
 - Rollen
 - Funktion und Prozesse im Energiehandel und Risikomanagement
 
-Märkte, Gestaltungsmerkmale von Märkten, Rollen und Funktionen von Märkten, Prozesse, wie ge-he ich an die Märkte (Zugang), Blockgebote, Warum sind Blockgebote für thermische KW oder Spei-cher wichtig (Schemm), Forwardkurven, Idee von Forwardkurven, Strukturenmerkmale von Forward-kurven, Bewegungsformen von Forwardkurven, Risikomanagement allgemein,
+</td></tr></table>
+</details>
+<details><summary><b>Güllü</b></summary>
+<table><tr><td>
+
+- Märkte
+- Gestaltungsmerkmale von Märkten
+- Rollen und Funktionen von Märkten
+- Prozesse, wie gehe ich an die Märkte (Zugang)
+- Blockgebote
+  - Warum sind Blockgebote für thermische KW oder Speicher wichtig (Schemm)
+- Forwardkurven
+  - Idee von Forwardkurven
+  - Strukturenmerkmale von Forwardkurven
+  - Bewegungsformen von Forwardkurven
+- Risikomanagement allgemein
 
 </td></tr></table>
 </details>
