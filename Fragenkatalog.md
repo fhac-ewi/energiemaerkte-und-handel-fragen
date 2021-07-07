@@ -769,6 +769,13 @@ Option kann **zu einem bestimmten Zeitpunkt** eingelöst werden oder nicht.
 **Amerikanische Option**
 Option kann **über einen Zeitraum** eingelöst werden oder nicht.
 
+**Spezifikationen**
+- Verfalltermin
+- Basis- bzw. Ausübungspreis
+- Spezielle Terminologien
+- Positionsgrenzen
+
+
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie die Einflussgrößen auf einen Optionspreis und die Art der Wirkung.</b></summary>
