@@ -1,4 +1,66 @@
 #Fragenkatalog
+## Fragentypen je Vorwissen
+Fragen aus der Datei [01 AMI](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/01%20AMI.md).
+<details><summary><b>Einflussgrößen Optionspreis</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Regelausgleichsmechanismus</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Optionen Prinzipiell</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Digitalisiesie-rungsfragen Energiewirtschaft (Referat)</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>internationaler Handel</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Marktgrundlagen</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Wohlfahrtbeein-flussung durch Marktindifferenzen durch Oligopol oder Monopolstrukturen</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Margiginsystem</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Futures</b></summary>
+<table><tr><td>
+
+
+</td></tr></table>
+</details>
+<details><summary><b>Risikofreie Portfolio</b></summary>
+<table><tr><td>
+
+</td></tr></table>
+</details>
+
 ## Grundlage von Märkten
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?</b></summary>
