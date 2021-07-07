@@ -40,7 +40,8 @@
 - Märkte
 - Gestaltungsmerkmale von Märkten
 - Rollen und Funktionen von Märkten
-- Prozesse, wie gehe ich an die Märkte (Zugang)
+- Prozesse
+- wie gehe ich an die Märkte (Zugang)
 - Blockgebote
   - Warum sind Blockgebote für thermische KW oder Speicher wichtig (Schemm)
 - Forwardkurven
