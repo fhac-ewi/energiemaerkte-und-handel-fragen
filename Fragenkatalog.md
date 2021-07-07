@@ -3,6 +3,7 @@
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beschreiben Sie abstrakt die Aufgaben eines Marktes. Warum existieren Märkte? Was sind Gestaltungsmerkmale von Märkten?</b></summary>
 <table><tr><td>
+
 Ein Markt ist ..
 - Ansammlung von **Käufern** und **Verkäufern**
 - Angebot/Verkauf homogener Produkte
@@ -23,6 +24,7 @@ Gestaltungsmerkmale
 </details>
 <details><summary><b>Was ist eine Angebotsfunktion? Was beeinflusst die Lage und die Form einer Angebotsfunktion?</b></summary>
 <table><tr><td>
+
 Die Angebotsfunktion besteht aus
 - **Produktionsfunktion**: Zusammenhang zwischen Input und Output
 - **Kostenfunktion**: Produktionsmenge zu anfallenden Kosten
@@ -41,12 +43,14 @@ TODO Unsicher bei "besteht aus" und Lagebeziehungen
 </details>
 <details><summary><b>Erläutern Sie detailliert die verschiedenen Kosten/Kostenfunktionen. Erläutern Sie einen Wirkungsgrad eines Energiewandlungsprozesses bzw. dessen Form/Verlauf. Beschreiben Sie, wie Sie mithilfe des Wirkungsgrades die Brennstoffkostenfunktion ausgedrückt in Strommengen ableiten (unterstellen Sie einen konstanten Brennstoffpreis). Was bedeutet dieser Verlauf für den Verlauf der Kostenfunktion?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Sie kommen zu dem Schluss, dass die Kostenfunktion über ein Polynom dritten Grades beschreibbar ist. Berechnen und skizzieren Sie die Grenzkosten und die variablen Durchschnittskosten.</b></summary>
 <table><tr><td>
+
 Kostenfunktion: `f(x)=a*x^3 + b*x^2 + c*x + d`
 
 Fixkosten: `d`
@@ -61,6 +65,7 @@ variable Durchschnittskosten: ???
 </details>
 <details><summary><b>Was ist eine Nachfragefunktion? Was beeinflusst die Lage und die Form einer Nachfragefunktion?</b></summary>
 <table><tr><td>
+
 Nachfrage ist von diversen Faktoren abhängig. Grundsätzlich gilt
 - Bei höherem Kapital sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
 - Bei Knappheit des Gutes sind Nachfrager tendenziell bereit einen höheren Preis zu bezahlen
@@ -70,6 +75,7 @@ Nachfrage ist von diversen Faktoren abhängig. Grundsätzlich gilt
 </details>
 <details><summary><b>Was ist der Gleichgewichtspreis? Charakterisieren Sie den Gleichgewichtspreis in Bezug auf die resultierende volkswirtschaftliche Wohlfahrt.</b></summary>
 <table><tr><td>
+
 **Merit-Order** Der Schnittpunkt bei Zusammenführen der Nachfrage und Angebotskurve ergibt den markträumenden Preis/Gleichgewichtspreis/Markträumungspreis/... .
 
 TODO Mehr?
@@ -78,6 +84,7 @@ TODO Mehr?
 </details>
 <details><summary><b>Inwiefern mindern Oligopol- als auch Monopolstruktur die Wohlfahrt in einem Markt?</b></summary>
 <table><tr><td>
+
 Minderung der Konsumentenrente. Falls es wenige oder nur einen Anbieter gibt, kann dieser den Preis frei bestimmen. Dadurch müssen die Konsumenten/Nachfrager mehr für das Produkt zahlen.
 Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde die Produzentenrente gemindert. Dies ist jedoch in der Energiewirtschaft eher nicht der Fall.
 
@@ -85,6 +92,7 @@ Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde di
 </details>
 <details><summary><b>Beschreiben Sie die Rolle / Funktionen von Märkten in der Energiewirtschaft.</b></summary>
 <table><tr><td>
+
 **Volkswirtschaftlicher Funktionen**
 - **Allokationsfunktion**: Optimaler Einsatz von Ressourcen.
 - **Lenkungsfunktion**: Langfristige Preisanreize für Investitionen in Kraftwerke durch Future-Geschäfte im Terminmarkt.
@@ -101,6 +109,7 @@ Ein Oligopol oder Monopol kann es auch auf Nachfragerseite geben. Hier würde di
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/00%20Grundlage%20von%20Märkten/Fragen%20von%20GEK.md).
 <details><summary><b>Was ist ein natürliches Monopol? Und welche Netze zählen dazu? </b></summary>
 <table><tr><td>
+
 "Märkte, die sich natürlicherweise verklumpen /konzentrieren + 1 Anbieter herausbilden, der die Dienstleistung (Netzbetrieb) pro Region anbietet." ~ Borchert
 
 Strom- und Gasnetze zählen als natürliches Monopol, da bei beiden Netzen weitere Mitbewerber hohe Investitionskosten haben und sich der Einstieg nicht lohnt.
@@ -110,6 +119,7 @@ Bei Fernwärmenetzen verhält sich das anders. TODO
 </details>
 <details><summary><b>Was ist die Produzenten- und Konsumentenrente?</b></summary>
 <table><tr><td>
+
 Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumungspreis.
 ![](./Fragenkatalog/00 Grundlage von Märkten/Nachfragekurve.png)
 
@@ -117,6 +127,7 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 </details>
 <details><summary><b>Was ist der Unterschied zwischen vollständig substiturierbaren Gütern und komplementären Gütern?</b></summary>
 <table><tr><td>
+
 **Vollständig substiturierbare Güter**
 - Wenn das eine Gut jeweils Ersatz für das andere findet. (z.B. Fisch und Fleisch)
 - Eine Preiserhöhung von Gut A kann zu einer Preiserhöhung von Gut B führen.
@@ -130,6 +141,7 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 </details>
 <details><summary><b>Wie sind die Begriffe Elastisch und Unelastisch bei Preiselastizität definiert?</b></summary>
 <table><tr><td>
+
 **Elastisch**
 - Bei einer Preiserhöhung von 1% (des Angebots) geht die Nachfrage um > 1% zurück.
 - Die Nachfrager können auf das Ware verzichten.
@@ -142,6 +154,7 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 </details>
 <details><summary><b>Definieren Sie Gesamtkosten, Fixkosten, Variable Kosten, Durchschnittskosten und Grenzkosten.</b></summary>
 <table><tr><td>
+
 
 | Bezeichung | Definition |
 | ---------- | ---------- |
@@ -156,30 +169,35 @@ Jeweils die Differenz zwischen der Angebots- und Nachfragekurve zum Markträumun
 </details>
 <details><summary><b>Was kann bei Variablen Kosten auftreten?</b></summary>
 <table><tr><td>
+
 Skaleneffekte. Je mehr produziert wird, desto günstiger sind die Durchschnittskosten je produzierter Einheit.
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie errechnet sich das Gewinnmaximum eines Unternehmens?</b></summary>
 <table><tr><td>
+
 Wenn der Grenzerlös gleich den Grenzkosten ist.
 
 </td></tr></table>
 </details>
 <details><summary><b>Wodurch ergibt sich der markträumende Gleichgewichtspreis?</b></summary>
 <table><tr><td>
+
 Durch Zusammenführung von Angebots- und Nachfragekurve. Der Schnittpunkt ist der Gleichgewichts- oder markträumenden Preises (MRP).
 
 </td></tr></table>
 </details>
 <details><summary><b>Wieso bieten Anbieter ihre Angebot an, obwohl die Gesamtkosten ggf. nicht gedeckt werden können?</b></summary>
 <table><tr><td>
+
 Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die Fixkosten zumindest anteilig wieder reinkommen. Es ist besser als wenn der Anbieter garnicht handelt und auf den gesamten Fixkosten sitzen bleibt.
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie sind die Auktionen im Stromhandel aufgebaut?</b></summary>
 <table><tr><td>
+
 **Bieterstruktur**
 - Einseitig: Es werden entweder nur nachfrage- oder nur angebotsseitig Gebote abgegeben (z.B. Ebay (nur Nachfrageseitig) oder myHammer (nur Angebotsseitig)).
 - Zweiseitig: von beiden Seiten werden Kauf- und Verkaufsgebote abgegeben (z.B. Börsen).
@@ -196,6 +214,7 @@ Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die F
 </details>
 <details><summary><b>Energiegroßhandelsmärkte haben verschiedene betriebswirtschaftliche und volkwirtschaftliche Funktionen. Benenne diese.</b></summary>
 <table><tr><td>
+
 **Volkswirtschaftlicher Funktionen**
 - **Allokationsfunktion**: Optimaler Einsatz von Ressourcen.
 - **Lenkungsfunktion**: Langfristige Preisanreize für Investitionen in Kraftwerke durch Future-Geschäfte im Terminmarkt.
@@ -214,12 +233,14 @@ Solange die variablen Kosten gedeckt sind, lohnt sich ein Handel, da dabei die F
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Spotmärkte/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Welche Produkte werden an Energiemärkten gehandelt? Beschreiben Sie die grundsätzlichen Eigenschaften der Produkte.</b></summary>
 <table><tr><td>
+
 Auf Energiemärkten werden standardisierte Produkte gehandelt. (Homogene Produkte, die vollständig gegeneinander substituierbar sind.)
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Marktstufen werden im Energiemarkt unterschieden? Welche Funktionen übernehmen die Spotmärkte aus folgenden Perspektiven Kraftwerksmanagement, Vertriebs- und Beschaffungsmanagement und Netzmanagement?</b></summary>
 <table><tr><td>
+
 Marktstufen
 - **Terminhandel**: Grobe Planung des Portfolios zur Risikoabsicherung. Handel erfolgt weit im Vorraus zum Lieferzeitpunkt. 
 - **Day-Ahead**: Studenscharfe Optimierung des Portfolios am Vortag des Lieferzeitpunkts.
@@ -229,18 +250,21 @@ Marktstufen
 </details>
 <details><summary><b>Beschreiben Sie detailliert anhand eines thermischen Kraftwerks, wie Sie ein Gebot für den Spotmarkt formulieren würden. Welche Relevanz haben Blockgebote für Sie?</b></summary>
 <table><tr><td>
+
 Ein thermisches Kraftwerk muss zuerst auf Temperatur kommen, bevor es die volle Leistung einspeisen kann. Ein ständiges Hoch und Runterfahren des Kraftwerks ist aufgrund der längeren Startzeit und den dafür benötigten Brennstoffen nicht wirtschaftlich. Blockgebote ermöglichen es dem Kraftwerksbetreiber das Kraftwerk über mehrere Stunden hinweg laufen zu lassen und dadurch den Einsatz besser zu planen.
 
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie genau, wie Anbieter und Nachfrager Gebote an dem Day-Ahead-Spotmarkt abgeben können (Kommunikationsprozess mit der Börse). Wie heißt das an der Börse stattfindende Auktionsverfahren? Welche Vor- und Nachteile hat dieses Verfahren?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche fundamentalen Einflussgrößen auf den Spotpreis sind vorstellbar? Beschreiben Sie detailliert die Wirkung des CO2-Preises auf die merit order.</b></summary>
 <table><tr><td>
+
 Die Merit-Order bestimmt den Gleichgewichtspreis und welche Käufer und Verkäufer den Zuschlag erhalten haben. 
 
 Der Verkaufspreis, zu dem Kraftwerke ihre Energie auf dem Markt anbietet, setzt sich aus Brennstoffkosten und CO2 Preisen zusammen. (Variable Kosten) Durch einen hohen CO2 Preis müssen Kraftwerke mit einem hohen CO2 Preis (auch bei günstigen Brennstoffkosten) höhere Verkaufspreise ansetzen. Somit erhalten diese seltener einen Zuschlag bei der Merit Order. --> Kraftwerke mit eventuell höheren Brennstoffkosten dafür geringerem CO2 Ausstoß werden bevorzugt.
@@ -249,12 +273,14 @@ Der Verkaufspreis, zu dem Kraftwerke ihre Energie auf dem Markt anbietet, setzt 
 </details>
 <details><summary><b>Welche Funktion und Bedeutung hat der Intradaymarkt? Vergleichen Sie das Preisbildungsverfahren am Intradaymarkt mit dem des Day-Ahead-Spotmarktes.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Warum existiert ein europäischer Handel? Was limitiert diesen Handel? Angenommen, Sie müssten eine Investition in eine zwei Marktgebiete verbindende Kuppelkapazität genehmigen, worauf würden Sie achten? Erläutern Sie anhand der beiden Marktdiagramme.</b></summary>
 <table><tr><td>
+
 Der länderübergreifende Handel ermöglicht es Raumarbitrage Geschäfte abzuschließen und günstigeren Strom aus dem Ausland zu beziehen. Der Handel ist limitiert durch die Kuppelkapazität, also der maximalen Leistung die durch die Trasse zwischen den beiden Ländern fließen kann, bestimmt. Die Kuppelkapazitäten werden durch die beiden beteiligten ÜNBs in einem Bieterverfahren versteigert.
 
 Bei Ausnutzen von Preisdifferenzen auf beiden Märkten muss deshalb darauf geachtet werden, dass diese Preisdifferenz höher als der Preis für die Kuppelkapazität ist. Sonst wäre es ein Verlustgeschäft.
@@ -263,12 +289,14 @@ Bei Ausnutzen von Preisdifferenzen auf beiden Märkten muss deshalb darauf geach
 </details>
 <details><summary><b>Erläutern Sie den Regelenergiemarkt. Welche Faktoren beeinflussen die ausgeschriebene Kapazität?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Erläutern Sie die Funktion des Ausgleichsenergiemechanismus.</b></summary>
 <table><tr><td>
+
 TODO
 </td></tr></table>
 </details>
@@ -276,6 +304,7 @@ TODO
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20von%20GEK.md).
 <details><summary><b>Welche unterschiedlichen Märkte gibt es mit welchen Fristigkeiten? Und wie werden jeweils die Handelsgeschäfte gebildet?</b></summary>
 <table><tr><td>
+
 ![](https://www.next-kraftwerke.de/wp-content/uploads/handelsfristen-an-strommaerkten.png)
 
 | Markt | Produkte | Preisfindung | Nutzen |
@@ -290,6 +319,7 @@ Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/01%20Spotmärkte/Fragen%20
 </details>
 <details><summary><b>In welche Segmente ist der Spotmarkt untergliedert?</b></summary>
 <table><tr><td>
+
 **Day ahead Auktion**
 - Handel findet als tägliche Auktion statt.
 - Es werden die 24 Stunden des Folgetages gehandelt. Die Produkte sind Blocks, Stunden oder Viertelstunden.
@@ -306,6 +336,7 @@ Folie 3 - 8
 </details>
 <details><summary><b>Was ist die Merit-Order?</b></summary>
 <table><tr><td>
+
 Bei einer Auktion geben alle Käufer und Verkäufer verdeckt Gebote ab. Das bedeutet, dass keiner weiß, was die anderen tun.
 
 Nach Abschluss der Auktion wird der Schnittpunkt der Nachfrage- und Angebotskurve ermittelt. (Merit-Order-Verfahren) Der da festgesetzte Preis muss von allen Käufern an die Verkäufer gezahlt werden - unabhängig des vorherigen Gebots.
@@ -315,6 +346,7 @@ Die Differenz zwischen Gebot zu Markträumungspreis wird Wohlfahrt genannt. (Kon
 </details>
 <details><summary><b>Wie wird am Day-Ahead Markt gehandelt?</b></summary>
 <table><tr><td>
+
 Die Käufer und Verkäufer geben anonym Gebote ab. Dabei geben sie für jede Stunde Paare aus Preis/Volumen ab.
 
 Kaufwünsche = Positive Menge
@@ -335,6 +367,7 @@ Folie 3 - 15
 </details>
 <details><summary><b>Wozu dient Demand-Side-Management (DSM) und welche Möglichkeiten gibt es?</b></summary>
 <table><tr><td>
+
 DSM dient der Flexibilisierung der Stromnachfrage, um eine optimale Auslastung zu erlangen. Ziel ist vorallem die Nivellierung (Glättung) des Lastgangs für eine optimale Kraftwerksauslastung und die Vermeidung von Lastspitzen.
 
 **Lastmanagementstrategien**
@@ -350,6 +383,7 @@ Folie 3 - 23
 </details>
 <details><summary><b>Welche Auftragsarten gibt es beim Intraday Handel?</b></summary>
 <table><tr><td>
+
 **Limit Orders**
 - Kauf- und Verkaufsgebote mit Preislimit. (Minimaler Verkaufs- oder maximaler Kaufpreis)
 - Solche Aufträge werden i.d.R. nicht sofort ausgeführt.
@@ -369,6 +403,7 @@ Folie 3 - 31
 </details>
 <details><summary><b>Was meint Marktkopplung?</b></summary>
 <table><tr><td>
+
 Marktkopplung meint den europaweiten Handel über die Ländergrenzen hinweg. Es stehen für solche Handelsgeschäfte aber nur beschränkte Transportkapazitäten zur Verfügung. Diese Kapazitäten werden von dem Übertragungsnetzbetreiber vergeben, damit diese effizient genutzt werrden können. 
 
 Die maximalen Transportkapazitäten an den Ländergrenzen/zwischen den Märkten werden auch Kuppelkapazität genannt.
@@ -379,6 +414,7 @@ Folie 3 - 32
 </details>
 <details><summary><b>Wie erfolgt der Handel auf verschiedenen Märkten?</b></summary>
 <table><tr><td>
+
 Es müssen zuerst Transportkapazitäten bei dem ÜNB angefragt werden. Die Kapazitäten werden von dem ÜNB versteigert. Erst wenn man den Zuschlag erhält, kann man auf dem anderen Marktplatz handeln und versuchen durch Arbitragegeschäfte die Preisunterschiede auszunutzen.
 
 Folie 3 - 34
@@ -387,18 +423,21 @@ Folie 3 - 34
 </details>
 <details><summary><b>Warum können grenzüberschreitende Handelsaktivitäten gewinnbringend sein?</b></summary>
 <table><tr><td>
+
 Raumarbitrage. (Ich kaufe günstigen Strom im Ausland und kann diesen günstig selbst verbrauchen oder auf dem heimischen Strommarkt weiterverkaufen.)
 
 </td></tr></table>
 </details>
 <details><summary><b>Auf welchem Markt werden Windräder gehandelt?</b></summary>
 <table><tr><td>
+
 Intraday Markt, da im Vorfeld unklar ist wieviel Energie produziert wird. 
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist Arbitragehandel?</b></summary>
 <table><tr><td>
+
 Arbitrage ist die ohne Risiko vorgenommene Ausnutzung von Kurs-, Zins- oder Preisunterschieden zum selben Zeitpunkt mit dem Ziel der Gewinnmitnahme. Im Gegensatz zur Spekulation ist die Arbitrage nicht risikobehaftet.
 
 - Devisenarbitrage
@@ -413,6 +452,7 @@ Folie 3 - 40
 </details>
 <details><summary><b>Welche Regelleistungen gibt es und in welcher Zeit müssen diese verfügbar sein? In welcher Größenordnung fällt diese circa an?</b></summary>
 <table><tr><td>
+
 ![](https://www.next-kraftwerke.de/wp-content/uploads/Aktivierung-der-verschiedenen-Regelenergiearten-scaled.jpg)
 
 ![](./Fragenkatalog/01 Spotmärkte/Regelenergie.PNG)
@@ -424,6 +464,7 @@ TODO F 3 52
 </details>
 <details><summary><b>Welche Netzfrequenzen sind in Ordnung?</b></summary>
 <table><tr><td>
+
 Totband = 49.99 bis 50.01 Hz --> alles ok
 47.5 Hz --> Blackout
 52.5 Hz --> Oh Wunder, auch Blackout
@@ -435,18 +476,21 @@ F3 49
 </details>
 <details><summary><b>Was versteht man unter Pooling?</b></summary>
 <table><tr><td>
+
 F 3 53
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie erfolgt der Handel von Regelenergie?</b></summary>
 <table><tr><td>
+
 F 3 54/ 55 / 56
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist Intrinsic Rolling?</b></summary>
 <table><tr><td>
+
 TODO
 </td></tr></table>
 </details>
@@ -455,6 +499,7 @@ TODO
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Forward%20und%20Futuresmärkte/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Was sind Termingeschäfte? Was ist der Unterschied zwischen bedingten und unbedingten Termingeschäften?</b></summary>
 <table><tr><td>
+
 Bei **Termingeschäften** werden vor der Fälligkeit (also vereinbartes Lieferdatum) Lieferbedingungen fest vereinbart. Es gibt verschiedene Arten von Termingeschäften.
 
 | Unbedingte | Bedingte |
@@ -470,6 +515,7 @@ Ein **bedingtes** Termingeschäft räumt einem der beiden Vertragspartner das Re
 </details>
 <details><summary><b>Welche Eigenschaften hat ein Forward auf eine Aktie? Wie ist dagegen ein Forward auf eine Energielieferung definiert? </b></summary>
 <table><tr><td>
+
 Ein bilateral (OTC) gehandelter, nicht standardisierter Lieferkontrakt zwischen einem Käufer und Verkäufer, bei dem der Käufer zur Abnahme und Bezahlung und der Verkäufer zur Lieferung einer bestimmten Warenmenge zu einem zuvor festgelegten Preis an einem spezifizierten Ort und Datum in der Zukunft verpflichtet ist. (Folie 6 - 9)
 
 Kontrakt-Parameter:
@@ -484,6 +530,7 @@ TODO Unterschiede zu Aktien
 </details>
 <details><summary><b>Definieren Sie einen Strom- oder Gas-Future. Inwiefern unterscheidet sich der Energie-Future vom Energie-Forward?</b></summary>
 <table><tr><td>
+
 Bei einem **Future** wird ein fester Preis während der Fälligkeit (Zeitraum Lieferbeginn + Dauer) vereinbart. Die Vertragspartner einigen sich auf einen Preis, der in Zukunft gelten soll. Der tatsächliche Spotmarktpreis wird bei Fälligkeit aber abweichen. Die Differenz zum Spotmarktpreis wird als Finanzausgleich zwischen den Vertragspartnern gezahlt.
 
 Kontrakt-Parameter:
@@ -496,6 +543,7 @@ Kontrakt-Parameter:
 </details>
 <details><summary><b>Grenzen Sie den Forward zum Fahrplan ab. Inwiefern haben Lieferverträge Flexibilitäten? Inwiefern kann man hier von Option sprechen?</b></summary>
 <table><tr><td>
+
 Ein Forward garantiert eine konstante Leistung über einen defizierten Zeitraum. Bei einem **Fahrplan** wird eine Leistungsstruktur vereinbart.
 
 Kontrakt-Parameter:
@@ -508,12 +556,14 @@ Kontrakt-Parameter:
 </details>
 <details><summary><b>Was bedeutet Hedging? Erläutern Sie ausführlich das Konzept.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Was bedeutet Arbitrage? Was bedeutet und impliziert ein arbitragefreier Markt?</b></summary>
 <table><tr><td>
+
 **Arbitrage** meint das risikofreie Ausnutzen von Kurs-, Zins- oder Preisunterschieden zu einem Zeitpunkt. Es werden zwei Handelsgeschäfte (Kauf und Verkauf von Energie), die zusammen einen Gewinn bringen, zeitgleich abgeschlossen. Anders als bei Spekulationen ist dies wirklich Risikofrei!
 
 Arten von Arbitrage
@@ -525,6 +575,7 @@ Arten von Arbitrage
 </details>
 <details><summary><b>Beschreiben Sie ein offenes Orderbuch. Inwiefern gilt hier die Preisregel pay as bid?</b></summary>
 <table><tr><td>
+
 Bei einem **offenen Orderbuch** werden Kauf und Verkaufsgebote anonym (man weiß also nicht von wem die Gebote sind) gegenübergestellt.
 
 Sobald der Kaufpreis eines Gebots größer gleich dem gewünschten Verkaufspreis liegt, kommt es zu einem Geschäftsabschluss. Die beiden Aufträge werden aus dem Orderbuch entfernt.
@@ -534,12 +585,14 @@ Der Käufer muss den von ihm gebotenen Kaufpreis zahlen.
 </details>
 <details><summary><b>Was ist eine Forward- bzw. Futurekurve? </b></summary>
 <table><tr><td>
+
 Die Kurven zeigen, wie sich die Preise in der nächsten Zeit entwickeln könnten.
 
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie eine mark to market. Definieren Sie Normal Backwardation und Contango.</b></summary>
 <table><tr><td>
+
 Bei **market-to-market** werden die Handelsgeschäfte nach Abschluss neu bewertet. Der Wert ist hierbei ungefähr null. (????)
 
 Normal Backwardtion und Contango sind zwei Preissituationen bei Warentermingeschäften. Bei Ersterem liegt der Preis unter dem erwarteten Spotpreis, bei Zweiterem drüber.
@@ -550,6 +603,7 @@ TODO
 </details>
 <details><summary><b>Wann ist eine Forwardkurve in Normal Backwardation, wann in Contango?</b></summary>
 <table><tr><td>
+
 Wenn der Spotpreis **unter** dem im Forward festgesetzten Preis liegt, ist es in Normal Backwardation.
 
 Wenn der Spotpreis **über** dem im Forward festgesetzten Preis liegt, ist es in Contango.
@@ -559,6 +613,7 @@ Wenn der Spotpreis **über** dem im Forward festgesetzten Preis liegt, ist es in
 </details>
 <details><summary><b>Beschreiben Sie das Margining-System an der EEX. Welchem Zweck dient dieses?</b></summary>
 <table><tr><td>
+
 TODO
 </td></tr></table>
 </details>
@@ -566,6 +621,7 @@ TODO
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/02%20Forward%20und%20Futuresmärkte/Fragen%20von%20GEK.md).
 <details><summary><b>Welche Arten von Termingeschäften gibt es?</b></summary>
 <table><tr><td>
+
 - physische Erfüllung / Forward - Preis sichern für zukünftige Lieferung
 - finanzielle Erfüllung / Future - 
 - Wahlrecht / Option - entweder man kauft oder lässt es verfallen
@@ -576,6 +632,7 @@ TODO F 6 - 6
 </details>
 <details><summary><b>Wann ist die Fälligkeit der Zahlungen bei Future und Forward?</b></summary>
 <table><tr><td>
+
 Bei Forward wird die Zahlung am Schluss getätigt. (Käufer braucht hohe Bonität)
 
 Ein Future findet die Zahlung fortlaufend/direkt statt. 
@@ -584,6 +641,7 @@ Ein Future findet die Zahlung fortlaufend/direkt statt.
 </details>
 <details><summary><b>Forward: Was? Zwischen wem? Inhalt? </b></summary>
 <table><tr><td>
+
 TODO
 F 6 - 9
 
@@ -591,6 +649,7 @@ F 6 - 9
 </details>
 <details><summary><b>Fahrplan: Was? Zwischen wem? Inhalt? </b></summary>
 <table><tr><td>
+
 TODO
 F 6 - 10
 
@@ -598,6 +657,7 @@ F 6 - 10
 </details>
 <details><summary><b>Future: Was? Zwischen wem? Inhalt? </b></summary>
 <table><tr><td>
+
 TODO
 F 6 - 11
 
@@ -605,6 +665,7 @@ F 6 - 11
 </details>
 <details><summary><b>Welche Vorteile haben die Termingeschäfte für Käufer und Verkäufer?</b></summary>
 <table><tr><td>
+
 - Sicherung von Preisen
 - Sicherung von Abnahmemengen
 
@@ -612,6 +673,7 @@ F 6 - 11
 </details>
 <details><summary><b>Wieso ist eine Option ein asymmetrisches Produkt?</b></summary>
 <table><tr><td>
+
 Käufer und Verkäufer haben nicht die gleichen Rechte.
 
 F 6 - 17
@@ -620,12 +682,14 @@ F 6 - 17
 </details>
 <details><summary><b>Was ist eine europäische Option oder amerikanische Option?</b></summary>
 <table><tr><td>
+
 Europäische Option kann in einem bestimmten **Zeitpunkt** ausgelöst werden. Eine amerikanische Option in einem bestimmten **Zeitraum**.
 
 </td></tr></table>
 </details>
 <details><summary><b>Was meint Hedging, Arbitrage und Spekulation?</b></summary>
 <table><tr><td>
+
 TODO 
 F 6 - 25
 
@@ -633,6 +697,7 @@ F 6 - 25
 </details>
 <details><summary><b>Was sind Market Maker?</b></summary>
 <table><tr><td>
+
 Sicherstellen von Gleichgewicht zwischen Angebot und Nachfrage.
 TODO Googlen wie das funktioniert
 TODO F 6 - 31
@@ -641,6 +706,7 @@ TODO F 6 - 31
 </details>
 <details><summary><b>Was sind Settlement Preise?</b></summary>
 <table><tr><td>
+
 TODO 
 F 6 - 32
 
@@ -648,12 +714,14 @@ F 6 - 32
 </details>
 <details><summary><b>Was sind langfristige und kurzfristige Faktoren?</b></summary>
 <table><tr><td>
+
 TODO F 6 - 49
 
 </td></tr></table>
 </details>
 <details><summary><b>Welchen Einfluss haben langfrisitge und kurzfristige Faktoren?</b></summary>
 <table><tr><td>
+
 TODO F 6 - 49
 
 </td></tr></table>
@@ -663,72 +731,84 @@ TODO F 6 - 49
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/03%20Operataionsmärkte%20und%20Optionsbewertung/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beschreiben und charakterisieren Sie Optionen in der Energiewirtschaft.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie die Auszahlungsprofile einer Option? Warum sind die Auszahlungsprofile so geformt?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Warum muss eine Option einen positiven Preis haben? Beschreiben Sie aus ökonomischer Sicht.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Spezifikationen hat eine Option? Wie unterscheiden sich europäische und amerikanische Optionen?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Beschreiben Sie die Einflussgrößen auf einen Optionspreis und die Art der Wirkung.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Erklären Sie die put-call-Parität. Was sagt sie aus? Warum gilt sie? </b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Skizzieren und erläutern Sie die Wertgrenzen eines europäischen calls.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Erklären Sie den Sinn der Bildung eines risikoneutralen Portfolios. Welche Konsequenzen hat dieses für die Bewertung der Option?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Erklären Sie den Optionspreis in einem Einperioden-Baum. Erklären Sie die „Wahrscheinlichkeiten“ p. </b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Bei der Verwendung von p wurde erläutert, dass diese Wahrscheinlichkeiten in der risikoneutralen Welt darstellen. Welches Wachstum der Basiswerte implizieren diese Wahrscheinlichkeiten? Erklären Sie hieran die Transformation der realen Welt in eine risikofreie.</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie und warum lassen sich die Parameter der Binomialverteilung aus Marktdaten errechnen?</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
 </details>
 <details><summary><b>Was ist ein Delta? Wieso muss man das Delta von Zeitschritt zu Zeitschritt anpassen? Erläutern Sie den resultierenden Handel (das Delta-Hedging).</b></summary>
 <table><tr><td>
+
 TODO
 
 </td></tr></table>
@@ -737,6 +817,7 @@ TODO
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/03%20Operataionsmärkte%20und%20Optionsbewertung/Fragen%20von%20GEK.md).
 <details><summary><b>Welche Optionen werden im Energiemarkt gehandelt?</b></summary>
 <table><tr><td>
+
 - Option auf Futures
 - Option in Lieferverträgen
 - Option auf Spotpreise
@@ -748,6 +829,7 @@ F 8 - 7
 </details>
 <details><summary><b>Welche physischen Assets weisen Optionscharakter auf?</b></summary>
 <table><tr><td>
+
 **Kraftwerke** können laufen oder aber nicht. Option auf clean spread.
 
 **Speicher** können Ausspeichern oder nicht. Option auf Kalender-Spread.
@@ -760,12 +842,14 @@ F 8 - 8
 </details>
 <details><summary><b>Was ist der faire Preis einer Option?</b></summary>
 <table><tr><td>
+
 TODO F 8 - 12
 
 </td></tr></table>
 </details>
 <details><summary><b>Was sind die Spezifikationen von Optionen?</b></summary>
 <table><tr><td>
+
 - Verfalltermin
 - Basis- bzw. Ausübungspreis
 - Spezielle Terminologien
@@ -777,12 +861,14 @@ F 8 - 17
 </details>
 <details><summary><b>Was ist der Unterschied zwischen einer europäischen und amerikanischen Option?</b></summary>
 <table><tr><td>
+
 TODO F 8 - 19
 
 </td></tr></table>
 </details>
 <details><summary><b>Nennen Sie die Werttreiber einer europäischen Call Option.</b></summary>
 <table><tr><td>
+
 - Volatilität (+)
 - Aktueller Kurs des Basiswerts (+)
 - Risikoloser Zins (+)
@@ -799,6 +885,7 @@ TODO F 8 - 20 das ganze Diagramm verstehen
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Markteffizienz%20und%20Dynamik%20von%20Preisen/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
+
 Beispielantwort
 </td></tr></table>
 </details>
@@ -806,6 +893,7 @@ Beispielantwort
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/04%20Markteffizienz%20und%20Dynamik%20von%20Preisen/Fragen%20von%20GEK.md).
 <details><summary><b>Was ist Informationseffizienz und welche Arten gibt es?</b></summary>
 <table><tr><td>
+
 TODO 
 F 9 - 7
 
@@ -813,6 +901,7 @@ F 9 - 7
 </details>
 <details><summary><b>Ich mag diesen Foliensatz nicht :( </b></summary>
 <table><tr><td>
+
 TODO F 9 - 22
 </td></tr></table>
 </details>
@@ -821,6 +910,7 @@ TODO F 9 - 22
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Optionsbewertung%20und%20Optionen/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
+
 Beispielantwort
 </td></tr></table>
 </details>
@@ -828,6 +918,7 @@ Beispielantwort
 Fragen aus der Datei [Fragen von GEK](./Fragenkatalog/05%20Optionsbewertung%20und%20Optionen/Fragen%20von%20GEK.md).
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
+
 TODO 
 F 10 -
 </td></tr></table>
@@ -837,6 +928,7 @@ F 10 -
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/06%20Organisation%20des%20Energiehandels%20und%20des%20Risikomanagements/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
 <table><tr><td>
+
 Beispielantwort
 </td></tr></table>
 </details>
