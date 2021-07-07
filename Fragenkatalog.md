@@ -1,81 +1,71 @@
 #Fragenkatalog
 ## Fragentypen je Vorwissen
-Fragen aus der Datei [01 AMI](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/01%20AMI.md).
-<details><summary><b>Einflussgrößen Optionspreis</b></summary>
+Fragen aus der Datei [Studiengang](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/Studiengang.md).
+<details><summary><b>AMI</b></summary>
 <table><tr><td>
+
+- Einflussgrößen Optionspreis
+- Regelausgleichsmechanismus
+- Optionen Prinzipiell
+- Digitalisiesie-rungsfragen Energiewirtschaft (Referat)
+- internationaler Handel
+- Marktgrundlagen
+- Wohlfahrtbeein-flussung durch Marktindifferenzen durch Oligopol oder Monopolstrukturen
+- Margiginsystem
+- Futures
+- Risikofreie Portfolio
 
 
 </td></tr></table>
 </details>
-<details><summary><b>Regelausgleichsmechanismus</b></summary>
+<details><summary><b>Maschinenbauer (eher technisch)</b></summary>
 <table><tr><td>
 
+- Märkte Grundlagen
+- Angebot und Nachfrage
+  - was beeinflusst die Lage
+  - was beeinflusst die Form
+  - was beeinflusst die Krümmung
+  - lineare Funktionen
+- empirische identifizierte möglicherweise über empirische ermittelte Näherung an Marktgebote, die man sieht, 
+- konvexgeformte, Marktstufen
+- Funktionen für die Marktstufen für die unterschiedlichen Aktivitäten:  
+  - KW-Management, Vertriebs-/Beschaffungsmanagement
+  - Netzmanagement Verlust-Energiebeschaffung
+- Forward, Optionen, Fahrpläne <-prinzipielle Merkmale der Produkte
+- Grundlegende Frage zum Risiko im Energiehandel
 
 </td></tr></table>
 </details>
-<details><summary><b>Optionen Prinzipiell</b></summary>
+<details><summary><b>Elektriker</b></summary>
 <table><tr><td>
 
+- Märkte
+- Wohlfahrt
+- Auswirkungen von Marktstrukturen auf Wohlfahrt
+  - wie können Mono-pole die Wohlfahrt verändern
+- Regelenergiesystem
+- Margining (Futures-Teil)
+- Rollen
+- Funktion und Prozesse im Energiehandel und Risikomanagement
+
+Märkte, Gestaltungsmerkmale von Märkten, Rollen und Funktionen von Märkten, Prozesse, wie ge-he ich an die Märkte (Zugang), Blockgebote, Warum sind Blockgebote für thermische KW oder Spei-cher wichtig (Schemm), Forwardkurven, Idee von Forwardkurven, Strukturenmerkmale von Forward-kurven, Bewegungsformen von Forwardkurven, Risikomanagement allgemein,
 
 </td></tr></table>
 </details>
-<details><summary><b>Digitalisiesie-rungsfragen Energiewirtschaft (Referat)</b></summary>
+<details><summary><b>Diec</b></summary>
 <table><tr><td>
 
-
-</td></tr></table>
-</details>
-<details><summary><b>internationaler Handel</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Marktgrundlagen</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Wohlfahrtbeein-flussung durch Marktindifferenzen durch Oligopol oder Monopolstrukturen</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Margiginsystem</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Futures</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Risikofreie Portfolio</b></summary>
-<table><tr><td>
-
-</td></tr></table>
-</details>
-
-Fragen aus der Datei [02 Maschinenbauer](./Fragenkatalog/0%20Fragentypen%20je%20Vorwissen/02%20Maschinenbauer.md).
-<details><summary><b>Märkte Grundlagen</b></summary>
-<table><tr><td>
-
-
-</td></tr></table>
-</details>
-<details><summary><b>Angebot und Nachfrage</b></summary>
-<table><tr><td>
-
-- was beeinflusst die Lage
-- was beeinflusst die Form
-- was beeinfluss die Krümmung
-- lineare Funktionen
-- empirische identifizierte möglicherweise über empirische ermittelte Näherung an Marktgebote
+- Kosten
+- Kostenfunktion
+- Wirkungsgrad (Input/Output-Beziehung)
+- Produktionsfunktion
+- Kostenfunktion herleiten
+- Spot-Intraday-Märkte, die verschiedenen Auktionsverfahren also Preisfindungsverfahren
+- Organisatorische Einbettung des Energiehandels
+- unterschiedliche Aufgaben
+- Rollen
+- Funktionen
 </td></tr></table>
 </details>
 
